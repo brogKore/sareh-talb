@@ -1,0 +1,6 @@
+:root{--bg:#f8fafc;--fg:#081028}
+.theme-dark{background:#0f172a;color:#e6eef8;min-height:100vh}
+.theme-light{background:var(--bg);color:var(--fg);min-height:100vh}
+body{font-family:Inter, system-ui, Arial;margin:0;padding:0}
+button{padding:6px 10px;border-radius:6px;border:1px solid #ccc;background:transparent;cursor:pointer}
+textarea, select{font-size:14px;padding:8px;border-radius:6px;border:1px solid #ddd}
